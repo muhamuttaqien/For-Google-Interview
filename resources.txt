@@ -1,0 +1,11 @@
+https://www.programiz.com/python-programming/iterator
+
+https://www.bigocheatsheet.com/
+
+https://towardsdatascience.com/understanding-time-complexity-with-python-examples-2bda6e8158a7
+
+https://afteracademy.com/blog/time-and-space-complexity-analysis-of-algorithm
+
+https://afteracademy.com/tech-interview/ds-algo-problem-set/top-problems
+
+https://www.youtube.com/watch?v=GbyXxUDVeAo
