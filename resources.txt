@@ -9,3 +9,5 @@ https://afteracademy.com/blog/time-and-space-complexity-analysis-of-algorithm
 https://afteracademy.com/tech-interview/ds-algo-problem-set/top-problems
 
 https://www.youtube.com/watch?v=GbyXxUDVeAo
+
+https://visualgo.net/en/sorting?slide=1
